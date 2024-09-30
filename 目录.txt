@@ -1,0 +1,402 @@
+Index of /
+[ICO]	Name	Last modified	Size	Description
+[   ]	上传马.php	2024-09-24 06:50	1.4K	 
+[   ]	中国木马资源网- WwW.7jyewu.Cn.php	2024-09-24 06:50	137K	 
+[TXT]	中国木马资源网-WwW.MumaSec.TK.php	2024-09-24 06:51	135K	 
+[   ]	仗剑孤行搜索可读可写目录脚本.php	2024-09-24 06:51	1.3K	 
+[   ]	在线exp专用免杀版.php	2024-09-24 06:52	113K	 
+[   ]	极其隐蔽的pHp小马穿插在正常页面中.php	2024-09-24 06:51	502	 
+[   ]	菊花聊天室.php	2024-09-24 06:52	2.1K	 
+[   ]	404.php	2024-09-24 06:52	15K	 
+[   ]	404 Not Found.php	2024-09-24 06:50	15K	 
+[   ]	404webshell.php	2024-09-24 06:52	70K	 
+[   ]	529.php	2024-09-24 06:51	1.5K	 
+[   ]	12309.php	2024-09-24 06:51	100K	 
+[   ]	AK-74 Security Team.php	2024-09-24 06:51	19K	 
+[   ]	AK-74 Security Team Web Shell Beta Version.php	2024-09-24 06:51	19K	 
+[   ]	ASPYDrvsInfo.php	2024-09-24 06:52	34K	 
+[   ]	Ajax_PHP Command Shell.php	2024-09-24 06:50	17K	 
+[   ]	Ani-Shell.php	2024-09-24 06:51	85K	 
+[   ]	AntSword_v2.1.15_default_exploit_oneshort.php	2024-05-10 09:28	30	 
+[   ]	Antichat Shell. Modified by Go0o$E.php	2024-09-24 06:51	30K	 
+[   ]	Antichat Shell.php	2024-09-24 06:51	13K	 
+[   ]	Antichat Shell v1.3.php	2024-09-24 06:51	8.8K	 
+[   ]	Antichat Socks5 Server v 1.0.php	2024-09-24 06:52	15K	 
+[   ]	Antichat_Shell_v1.3.php	2024-09-24 06:52	8.8K	 
+[   ]	Aria cPanel cracker version 1.0 - Edited By KingDefacer.php	2024-09-24 06:51	8.6K	 
+[   ]	A robust backdoor script made by Daniel Berliner.php	2024-09-24 06:50	13K	 
+[   ]	AventGrup-Sincap 1.0.php	2024-09-24 06:51	3.8K	 
+[   ]	Ayyildiz Tim -AYT- Shell v 2.1 Biz.php	2024-09-24 06:51	9.6K	 
+[   ]	B374k Beta ShElL V1.php	2024-09-24 06:51	20K	 
+[   ]	BLaSTER.php	2024-09-24 06:51	9.8K	 
+[   ]	Back Connect.php	2024-09-24 06:51	1.3K	 
+[   ]	Backdoor php v0.1 Coded By Charlichaplin.php	2024-09-24 06:51	5.6K	 
+[   ]	Behinder_v1.1_shell.aspx	2024-09-24 06:51	467	 
+[   ]	Behinder_v1.1_shell.php	2024-09-24 06:51	220	 
+[   ]	Behinder_v1.2.1_shell.aspx	2024-09-24 06:51	467	 
+[   ]	Behinder_v1.2.1_shell.php	2024-09-24 06:51	275	 
+[   ]	Behinder_v1.2_shell.aspx	2024-09-24 06:51	467	 
+[   ]	Behinder_v1.2_shell.php	2024-09-24 06:51	275	 
+[   ]	Behinder_v2.0.1_shell.asp	2024-09-24 06:52	402	 
+[   ]	Behinder_v2.0.1_shell.aspx	2024-09-24 06:50	467	 
+[   ]	Behinder_v2.0.1_shell.php	2024-09-24 06:52	618	 
+[   ]	Behinder_v2.0_shell.asp	2024-09-24 06:51	402	 
+[   ]	Behinder_v2.0_shell.aspx	2024-09-24 06:52	467	 
+[   ]	Behinder_v2.0_shell.php	2024-09-24 06:50	635	 
+[   ]	Behinder_v3.0 beta1_shell.asp	2024-09-24 06:52	231	 
+[   ]	Behinder_v3.0 beta1_shell.aspx	2024-09-24 06:51	400	 
+[   ]	Behinder_v3.0 beta1_shell.php	2024-09-24 06:51	589	 
+[   ]	Behinder_v3.0 beta2_shell.asp	2024-09-24 06:51	237	 
+[   ]	Behinder_v3.0 beta2_shell.aspx	2024-09-24 06:51	400	 
+[   ]	Behinder_v3.0 beta2_shell.php	2024-09-24 06:51	589	 
+[   ]	Behinder_v3.0 beta3_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta3_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v3.0 beta3_shell.php	2024-09-24 06:51	619	 
+[   ]	Behinder_v3.0 beta4_shell.asp	2024-09-24 06:52	314	 
+[   ]	Behinder_v3.0 beta4_shell.aspx	2024-09-24 06:51	444	 
+[   ]	Behinder_v3.0 beta4_shell.php	2024-09-24 06:51	619	 
+[   ]	Behinder_v3.0 beta5_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta5_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v3.0 beta5_shell.php	2024-09-24 06:52	619	 
+[   ]	Behinder_v3.0 beta6_shell.asp	2024-09-24 06:52	314	 
+[   ]	Behinder_v3.0 beta6_shell.aspx	2024-09-24 06:51	444	 
+[   ]	Behinder_v3.0 beta6_shell.php	2024-09-24 06:50	619	 
+[   ]	Behinder_v3.0 beta7_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta7_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v3.0 beta7_shell.php	2024-09-24 06:50	643	 
+[   ]	Behinder_v3.0 beta9_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta9_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v3.0 beta9_shell.php	2024-09-24 06:50	643	 
+[   ]	Behinder_v3.0 beta9 fix_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta9 fix_shell.aspx	2024-09-24 06:50	444	 
+[   ]	Behinder_v3.0 beta9 fix_shell.php	2024-09-24 06:50	643	 
+[   ]	Behinder_v3.0 beta10_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v3.0 beta10_shell.aspx	2024-09-24 06:51	444	 
+[   ]	Behinder_v3.0 beta10_shell.php	2024-09-24 06:51	643	 
+[   ]	Behinder_v3.0 beta11 t00ls_shell.asp	2024-09-24 06:52	314	 
+[   ]	Behinder_v3.0 beta11 t00ls_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v3.0 beta11 t00ls_shell.php	2024-09-24 06:52	643	 
+[   ]	Behinder_v4.0.6_default_exploit_shell.php	2024-05-10 09:28	643	 
+[   ]	Behinder_v4.0.6_shell.asp	2024-09-24 06:51	314	 
+[   ]	Behinder_v4.0.6_shell.aspx	2024-09-24 06:52	444	 
+[   ]	Behinder_v4.0.6_shell.php	2024-09-24 06:50	643	 
+[   ]	Bnkqbakq.php	2024-09-24 06:51	5.8K	 
+[   ]	C99madShell v. 2.0 madnet edition.php	2024-09-24 06:51	43K	 
+[   ]	Carbylamine PHP Encoder.php	2024-09-24 06:51	3.4K	 
+[   ]	CasuS 1.5.php	2024-09-24 06:51	13K	 
+[   ]	Changing CHMOD Permissions Exploit.php	2024-09-24 06:51	777	 
+[   ]	Command Shell.php	2024-09-24 06:51	17K	 
+[   ]	Confusion to encrypt php webshell.php	2024-09-24 06:50	1.2K	 
+[   ]	Coppermine Photo Gallery = 1.4.3 remote cmmnds xctn.php	2024-09-24 06:51	17K	 
+[   ]	CrystalShell v.1.php	2024-09-24 06:51	40K	 
+[   ]	Cyber Shell.php	2024-09-24 06:51	34K	 
+[   ]	DAws.php	2024-09-24 06:52	68K	 
+[   ]	DDoS attack.php	2024-09-24 06:50	2.7K	 
+[   ]	DTool Pro.php	2024-09-24 06:51	14K	 
+[   ]	Deface Keeper 0.2.php	2024-09-24 06:52	1.6K	 
+[   ]	Dive Shell 1.0 - Emperor Hacking Team.php	2024-09-24 06:51	5.4K	 
+[   ]	Dive_Shell_1.0_Emperor_Hacking_Team.php	2024-09-24 06:51	5.4K	 
+[   ]	Dx.php	2024-09-24 06:52	109K	 
+[   ]	Edited By KingDefacer.php	2024-09-24 06:51	2.8K	 
+[   ]	EgY_SpIdEr ShElL V2.php	2024-09-24 06:52	304K	 
+[   ]	FaTaL Shell v1.0 - Edited By KingDefacer.php	2024-09-24 06:51	19K	 
+[   ]	GFS_web-shell_ver_3.1.7_-_PRiV8.php	2024-09-24 06:52	21K	 
+[   ]	GFS web-shell ver 3.1.7 - PRiV8.php	2024-09-24 06:52	24K	 
+[   ]	GRP WebShell 2.0 release build 2018 (C)2006,Great.php	2024-09-24 06:51	16K	 
+[   ]	Gamma Web Shell.php	2024-09-24 06:52	25K	 
+[   ]	Godzilla_asp_base64.asp	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_asp_eval_base64.asp	2024-09-24 06:51	25	 
+[   ]	Godzilla_asp_raw.asp	2024-09-24 06:51	1.2K	 
+[   ]	Godzilla_asp_xor_base64.asp	2024-09-24 06:52	1.7K	 
+[   ]	Godzilla_asp_xor_raw.asp	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_eval_xor_base64.php	2024-09-24 06:51	28	 
+[   ]	Godzilla_v1.0_ASPX_AES_BASE64.ashx	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_v1.0_ASPX_AES_BASE64.asmx	2024-09-24 06:51	1.5K	 
+[   ]	Godzilla_v1.0_ASPX_AES_BASE64.aspx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v1.0_ASPX_AES_RAW.ashx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v1.0_ASPX_AES_RAW.asmx	2024-09-24 06:52	1.2K	 
+[   ]	Godzilla_v1.0_ASPX_AES_RAW.aspx	2024-09-24 06:51	1.0K	 
+[   ]	Godzilla_v1.0_PHP_XOR_BASE64.php	2024-09-24 06:52	836	 
+[   ]	Godzilla_v1.0_PHP_XOR_RAW.php	2024-09-24 06:51	648	 
+[   ]	Godzilla_v1.10_ASPX_AES_BASE64.ashx	2024-09-24 06:52	1.6K	 
+[   ]	Godzilla_v1.10_ASPX_AES_BASE64.asmx	2024-09-24 06:52	1.5K	 
+[   ]	Godzilla_v1.10_ASPX_AES_BASE64.aspx	2024-09-24 06:50	1.3K	 
+[   ]	Godzilla_v1.10_ASPX_AES_RAW.ashx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v1.10_ASPX_AES_RAW.asmx	2024-09-24 06:51	1.2K	 
+[   ]	Godzilla_v1.10_ASPX_AES_RAW.aspx	2024-09-24 06:52	1.0K	 
+[   ]	Godzilla_v1.10_PHP_XOR_BASE64.php	2024-09-24 06:52	836	 
+[   ]	Godzilla_v1.10_PHP_XOR_RAW.php	2024-09-24 06:51	648	 
+[   ]	Godzilla_v2.92_ASPX_AES_BASE64.ashx	2024-09-24 06:52	1.6K	 
+[   ]	Godzilla_v2.92_ASPX_AES_BASE64.asmx	2024-09-24 06:51	1.5K	 
+[   ]	Godzilla_v2.92_ASPX_AES_BASE64.aspx	2024-09-24 06:52	1.3K	 
+[   ]	Godzilla_v2.92_ASPX_AES_RAW.ashx	2024-09-24 06:52	1.3K	 
+[   ]	Godzilla_v2.92_ASPX_AES_RAW.asmx	2024-09-24 06:50	1.2K	 
+[   ]	Godzilla_v2.92_ASPX_AES_RAW.aspx	2024-09-24 06:52	1.0K	 
+[   ]	Godzilla_v2.92_PHP_XOR_BASE64.php	2024-09-24 06:51	836	 
+[   ]	Godzilla_v2.92_PHP_XOR_RAW.php	2024-09-24 06:51	648	 
+[   ]	Godzilla_v2.96_CSHAP_AES_BASE64.ashx	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_v2.96_CSHAP_AES_BASE64.aspx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v2.96_CSHAP_AES_BASE64.csmx	2024-09-24 06:50	1.5K	 
+[   ]	Godzilla_v2.96_CSHAP_AES_RAW.ashx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v2.96_CSHAP_AES_RAW.asmx	2024-09-24 06:51	1.2K	 
+[   ]	Godzilla_v2.96_CSHAP_AES_RAW.aspx	2024-09-24 06:50	1.0K	 
+[   ]	Godzilla_v2.96_PHP_XOR_BASE64.php	2024-09-24 06:51	836	 
+[   ]	Godzilla_v2.96_PHP_XOR_RAW.php	2024-09-24 06:52	648	 
+[   ]	Godzilla_v3.02_CSHAP_AES_BASE64.ashx	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v3.02_CSHAP_AES_BASE64.aspx	2024-09-24 06:51	1.4K	 
+[   ]	Godzilla_v3.02_CSHAP_AES_BASE64.csmx	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_v3.02_CSHAP_AES_RAW.ashx	2024-09-24 06:51	1.4K	 
+[   ]	Godzilla_v3.02_CSHAP_AES_RAW.asmx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v3.02_CSHAP_AES_RAW.aspx	2024-09-24 06:51	1.1K	 
+[   ]	Godzilla_v3.02_CSHAP_EVEL_AES_BASE64.aspx	2024-09-24 06:51	70	 
+[   ]	Godzilla_v3.02_PHP_EVAL_XOR_BASE64.php	2024-09-24 06:52	28	 
+[   ]	Godzilla_v3.02_PHP_XOR_BASE64.php	2024-09-24 06:51	740	 
+[   ]	Godzilla_v3.02_PHP_XOR_RAW.php	2024-09-24 06:52	631	 
+[   ]	Godzilla_v3.03_CSHAP_AES_BASE64.ashx	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v3.03_CSHAP_AES_BASE64.aspx	2024-09-24 06:51	1.4K	 
+[   ]	Godzilla_v3.03_CSHAP_AES_BASE64.csmx	2024-09-24 06:52	1.6K	 
+[   ]	Godzilla_v3.03_CSHAP_AES_RAW.ashx	2024-09-24 06:51	1.4K	 
+[   ]	Godzilla_v3.03_CSHAP_AES_RAW.asmx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v3.03_CSHAP_AES_RAW.aspx	2024-09-24 06:51	1.1K	 
+[   ]	Godzilla_v3.03_CSHAP_EVEL_AES_BASE64.aspx	2024-09-24 06:50	70	 
+[   ]	Godzilla_v3.03_PHP_EVAL_XOR_BASE64.php	2024-09-24 06:51	28	 
+[   ]	Godzilla_v3.03_PHP_XOR_BASE64.php	2024-09-24 06:51	740	 
+[   ]	Godzilla_v3.03_PHP_XOR_RAW.php	2024-09-24 06:50	631	 
+[   ]	Godzilla_v4.0.1_ASP_BASE64.asp	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_v4.0.1_ASP_EVAL_BASE64.asp	2024-09-24 06:52	25	 
+[   ]	Godzilla_v4.0.1_ASP_RAW.asp	2024-09-24 06:52	1.2K	 
+[   ]	Godzilla_v4.0.1_ASP_XOR_BASE64.asp	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v4.0.1_ASP_XOR_RAW.asp	2024-09-24 06:52	1.3K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_BASE64.ashx	2024-09-24 06:52	1.7K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_BASE64.asmx	2024-09-24 06:51	1.6K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_BASE64.aspx	2024-09-24 06:50	1.4K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_RAW.ashx	2024-09-24 06:52	1.4K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_RAW.asmx	2024-09-24 06:52	1.3K	 
+[   ]	Godzilla_v4.0.1_CSHAP_AES_RAW.aspx	2024-09-24 06:52	1.1K	 
+[   ]	Godzilla_v4.0.1_CSHAP_ASMX_AES_BASE64.asmx	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v4.0.1_CSHAP_EVAL_AES_BASE64.aspx	2024-09-24 06:51	70	 
+[   ]	Godzilla_v4.0.1_PHP_EVAL_XOR_BASE64.php	2024-09-24 06:52	28	 
+[   ]	Godzilla_v4.0.1_PHP_XOR_BASE64.php	2024-09-24 06:51	842	 
+[   ]	Godzilla_v4.0.1_PHP_XOR_RAW.php	2024-09-24 06:51	739	 
+[   ]	Godzilla_v4.0_ASP_BASE64.asp	2024-09-24 06:50	1.6K	 
+[   ]	Godzilla_v4.0_ASP_EVAL_BASE64.asp	2024-09-24 06:51	25	 
+[   ]	Godzilla_v4.0_ASP_RAW.asp	2024-09-24 06:51	1.2K	 
+[   ]	Godzilla_v4.0_ASP_XOR_BASE64.asp	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v4.0_ASP_XOR_RAW.asp	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_BASE64.ashx	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_BASE64.asmx	2024-09-24 06:52	1.6K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_BASE64.aspx	2024-09-24 06:52	1.4K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_RAW.ashx	2024-09-24 06:51	1.4K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_RAW.asmx	2024-09-24 06:51	1.3K	 
+[   ]	Godzilla_v4.0_CSHAP_AES_RAW.aspx	2024-09-24 06:52	1.1K	 
+[   ]	Godzilla_v4.0_CSHAP_ASMX_AES_BASE64.asmx	2024-09-24 06:51	1.7K	 
+[   ]	Godzilla_v4.0_CSHAP_EVAL_AES_BASE64.aspx	2024-09-24 06:51	70	 
+[   ]	Godzilla_v4.0_PHP_EVAL_XOR_BASE64.php	2024-09-24 06:51	28	 
+[   ]	Godzilla_v4.0_PHP_XOR_BASE64.php	2024-09-24 06:51	842	 
+[   ]	Godzilla_v4.0_PHP_XOR_RAW.php	2024-09-24 06:51	739	 
+[   ]	Godzilla_v4.01_php-eval-xor-base64_exploit_oneshort.php	2024-05-10 09:28	30	 
+[   ]	Godzilla_v4.01_php-xor-base64_exploit_oneshort.php	2024-05-10 09:28	873	 
+[   ]	Godzilla_v4.01_php-xor-raw_exploit_oneshort.php	2024-05-10 09:28	768	 
+[   ]	Godzilla_xor_base64.php	2024-09-24 06:51	842	 
+[   ]	Godzilla_xor_raw.php	2024-09-24 06:51	739	 
+[   ]	I-47 v1.3.php	2024-09-24 06:51	91K	 
+[   ]	KA_uShell 0.1.6.php	2024-09-24 06:51	4.5K	 
+[   ]	KAdot Universal Shell v0.1.6.php	2024-09-24 06:52	4.5K	 
+[   ]	KAdot_Universal_Shell_v0.1.6.php	2024-09-24 06:52	4.5K	 
+[   ]	Knull Shell.php	2024-09-24 06:51	21K	 
+[   ]	LOTFREE PHP Backdoor v1.5.php	2024-09-24 06:51	3.8K	 
+[   ]	Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php	2024-09-24 06:51	1.3K	 
+[   ]	Loader'z WEB Shell v 0.1.0.2.php	2024-09-24 06:52	13K	 
+[   ]	Loaderz WEB Shell.php	2024-09-24 06:52	13K	 
+[   ]	Lolipop.php - Edited By KingDefacer.php	2024-09-24 06:51	13K	 
+[   ]	Macker's Private PHPShell.php	2024-09-24 06:51	37K	 
+[   ]	Matamu Mat.php	2024-09-24 06:51	3.7K	 
+[   ]	Micro_Webshell.php	2024-09-24 06:52	54	 
+[   ]	Moroccan Spamers Ma-EditioN By GhOsT.php	2024-09-24 06:50	7.0K	 
+[   ]	Moroccan_Spamers_Ma-EditioN_By_GhOsT.php	2024-09-24 06:52	7.0K	 
+[   ]	MySQL Web Interface Version 0.8.php	2024-09-24 06:51	34K	 
+[   ]	MySQL Web Shell.php	2024-09-24 06:51	17K	 
+[   ]	Mysql_interface_v1.0.php	2024-09-24 06:51	33K	 
+[   ]	Mysql interface v1.0.php	2024-09-24 06:51	33K	 
+[   ]	Mysql udf by M4ster.php	2024-09-24 06:52	126K	 
+[   ]	NCC-Shell.php	2024-09-24 06:52	2.5K	 
+[   ]	NCC Shell v1.0.0.php	2024-09-24 06:50	2.5K	 
+[   ]	NGH.php	2024-09-24 06:50	17K	 
+[   ]	NTDaddy v1.9.php	2024-09-24 06:51	38K	 
+[   ]	NetworkFileManagerPHP.php	2024-09-24 06:52	119K	 
+[   ]	Non-alphanumeric.php	2024-09-24 06:52	417	 
+[   ]	PHANTASMA.php	2024-09-24 06:51	25K	 
+[   ]	PHP小马 - ExpDoor.com.php	2024-09-24 06:51	2	 
+[   ]	PHP 搜索可读可写目录脚本.php	2024-09-24 06:51	1.3K	 
+[   ]	PHP整站打包程序-By DoDo.php	2024-09-24 06:51	9.7K	 
+[   ]	PHP检测文件夹权限.php	2024-09-24 06:51	2.0K	 
+[   ]	PHPJackal v1.9.php	2024-09-24 06:52	98K	 
+[   ]	PHPRemoteView.php	2024-09-24 06:50	34K	 
+[   ]	PHP Shell.php	2024-09-24 06:51	36K	 
+[   ]	PHP Web Shell by oTTo.php	2024-09-24 06:51	16K	 
+[   ]	PH Vayv.php	2024-09-24 06:51	24K	 
+[   ]	PHVayv.php	2024-09-24 06:51	24K	 
+[   ]	PH_Vayv.php	2024-09-24 06:52	24K	 
+[   ]	Password Hasher for PHP Shell 2.1.php	2024-09-24 06:50	2.7K	 
+[   ]	Php Backdoor v 1.0 by ^Jerem.php	2024-09-24 06:51	8.8K	 
+[   ]	PhpShell 2.0.php	2024-09-24 06:51	8.5K	 
+[   ]	PhpSpy Ver 2006.php	2024-09-24 06:52	46K	 
+[   ]	PostgreSQL数据库操纵.php	2024-09-24 06:51	3.8K	 
+[   ]	Predator.php	2024-09-24 06:51	41K	 
+[   ]	Private x0rg Web Hosting Bypass.php	2024-09-24 06:51	211K	 
+[   ]	Rootshell.v.1.0.php	2024-09-24 06:51	9.5K	 
+[   ]	SPS-3.0免杀.php	2024-09-24 06:51	61K	 
+[   ]	SST Sheller.php	2024-09-24 06:51	21K	 
+[   ]	STNC WebShell v0.8.php	2024-09-24 06:50	6.6K	 
+[   ]	Safe0ver Shell -Safe Mod Bypass By Evilc0der.php	2024-09-24 06:51	37K	 
+[   ]	Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php	2024-09-24 06:51	5.2K	 
+[   ]	Safe_Mode_Bypass_PHP_4.4.2_and_PHP_5.1.2.php	2024-09-24 06:50	5.2K	 
+[   ]	Safe mode breaker.php	2024-09-24 06:51	2.2K	 
+[   ]	Security House - Shell Center - Edited By KingDefacer.php	2024-09-24 06:51	1.5K	 
+[   ]	Serv-U本地权限提升工具.php	2024-09-24 06:51	8.8K	 
+[   ]	Shell Commander.php	2024-09-24 06:51	9.3K	 
+[   ]	Shell [ci] .Biz was here.php	2024-09-24 06:50	158K	 
+[   ]	Silic Group Hacker Army - BlackBap.Org.php	2024-09-24 06:52	136K	 
+[   ]	Silic Group php Webshell v3.php	2024-09-24 06:51	122K	 
+[   ]	SimAttacker - Version 1.0.0 - Edited By KingDefacer.php	2024-09-24 06:52	12K	 
+[   ]	SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php	2024-09-24 06:51	11K	 
+[   ]	SimShell 1.0 - Simorgh Security MGZ.php	2024-09-24 06:51	5.0K	 
+[   ]	SimShell_1.0_-_Simorgh_Security_MGZ.php	2024-09-24 06:51	5.0K	 
+[   ]	Simple_PHP_backdoor_by_DK.php	2024-09-24 06:51	330	 
+[   ]	Sincap 1.0.php	2024-09-24 06:51	3.8K	 
+[   ]	Small Shell - Edited By KingDefacer.php	2024-09-24 06:51	15K	 
+[   ]	Small Web Shell by ZaCo.php	2024-09-24 06:51	15K	 
+[   ]	SnIpEr_SA Shell.php	2024-09-24 06:52	101K	 
+[   ]	Sosyete Safe Mode Bypass Shell - Edited By KingDefacer.php	2024-09-24 06:51	7.5K	 
+[   ]	Spider PHP Shell (SPS-3.0).php	2024-09-24 06:52	122K	 
+[   ]	Uploader.php	2024-09-24 06:51	280	 
+[   ]	Uploading.php	2024-09-24 06:52	856	 
+[   ]	W3D Shell.php	2024-09-24 06:52	3.9K	 
+[   ]	WSO2.7 404 Error Web Shell.php	2024-09-24 06:51	93K	 
+[   ]	Web-shell (c)ShAnKaR.php	2024-09-24 06:51	26K	 
+[   ]	WebShell.php	2024-09-24 06:51	43K	 
+[   ]	Webcommander by Cr4sh_aka_RKL v0.3.9 NGH edition.php	2024-09-24 06:51	17K	 
+[   ]	Win MOF Shell.php	2024-09-24 06:51	2.0K	 
+[   ]	WinX Shell.php	2024-09-24 06:50	4.9K	 
+[   ]	WordPress Shell.php	2024-09-24 06:51	780	 
+[   ]	Worse Linux Shell.php	2024-09-24 06:52	2.4K	 
+[   ]	Worse Linux Shell.php.php	2024-09-24 06:52	2.4K	 
+[   ]	ZoRBaCK Connect.php	2024-09-24 06:52	1.4K	 
+[   ]	ZyklonShell.php	2024-09-24 06:51	220	 
+[   ]	aZRaiLPhp_v1.0.php	2024-09-24 06:51	10K	 
+[   ]	aZRaiLPhp v1.0.php	2024-09-24 06:51	10K	 
+[   ]	accept_language.php	2024-09-24 06:51	76	 
+[   ]	angel.php	2024-09-24 06:51	73K	 
+[   ]	ava Server Faces MiniWebCmdShell 0.2 by HeartLESS.php	2024-09-24 06:52	3.6K	 
+[   ]	azrail 1.0 by C-W-M.php	2024-09-24 06:51	10K	 
+[   ]	b374k-mini-shell-php.php.php	2024-09-24 06:51	14K	 
+[   ]	b374k.php.php	2024-09-24 06:51	30K	 
+[   ]	backdoorfr.php	2024-09-24 06:51	8.8K	 
+[   ]	backupsql.php	2024-09-24 06:50	6.2K	 
+[   ]	bdotw44shell.php	2024-09-24 06:51	3.1K	 
+[   ]	bdshell.php	2024-09-24 06:51	2.7K	 
+[   ]	bitwise.php	2024-09-24 06:51	1.0K	 
+[   ]	boffmax_v1.0_web_shell_by_the-c0de_team(1).php	2024-09-24 06:51	49K	 
+[   ]	bypass safemodel.php	2024-09-24 06:51	13K	 
+[   ]	c0derz shell [csh] v. 0.1.1 release.php	2024-09-24 06:52	12K	 
+[   ]	c99_locus7s.php	2024-09-24 06:51	224K	 
+[   ]	c99_madnet.php	2024-09-24 06:51	43K	 
+[   ]	c99_webshell.php	2024-09-24 06:51	170K	 
+[   ]	c999shell.php	2024-09-24 06:52	0	 
+[   ]	change.php	2024-09-24 06:52	1.7K	 
+[   ]	cls_Base.php	2024-09-24 06:52	2.6K	 
+[   ]	cpanel.php	2024-09-24 06:51	8.6K	 
+[   ]	cw.php	2024-09-24 06:51	40K	 
+[   ]	cybershell.php	2024-09-24 06:51	34K	 
+[   ]	dC3 Security Crew Shell PRiV.php	2024-09-24 06:51	42K	 
+[   ]	dC3_Security_Crew_Shell_PRiV.php	2024-09-24 06:51	42K	 
+[   ]	devilzShell.php	2024-09-24 06:51	48K	 
+[   ]	erne.php	2024-09-24 06:51	42K	 
+[   ]	ex0shell.php	2024-09-24 06:51	40K	 
+[   ]	exp.php	2024-09-24 06:50	113K	 
+[   ]	fatal.php	2024-09-24 06:51	19K	 
+[   ]	from_the_wild1.php	2024-09-24 06:51	2.4K	 
+[   ]	ftpsearch.php	2024-09-24 06:52	2.8K	 
+[   ]	g00nshell-v1.3.php	2024-09-24 06:52	28K	 
+[   ]	get.php	2024-09-24 06:50	1.1K	 
+[   ]	gfs_sh.php	2024-09-24 06:51	63K	 
+[   ]	h4ntu_shell_[powered_by_tsoi].php	2024-09-24 06:51	2.4K	 
+[   ]	h4ntu shell [powered by tsoi].php	2024-09-24 06:51	2.4K	 
+[   ]	hiddens shell v1.php	2024-09-24 06:50	7.1K	 
+[   ]	iMHaPFtp.php	2024-09-24 06:51	52K	 
+[   ]	ironshell.php	2024-09-24 06:52	18K	 
+[   ]	kolang-bypass.php	2024-09-24 06:51	19K	 
+[   ]	kral.php	2024-09-24 06:51	9.8K	 
+[   ]	lama's'hell v. 3.0.php	2024-09-24 06:51	2.4K	 
+[   ]	lamashell.php	2024-09-24 06:51	2.4K	 
+[   ]	listfile.php	2024-09-24 06:50	1.9K	 
+[   ]	load_shell.php	2024-09-24 06:51	14K	 
+[   ]	lolipop.php	2024-09-24 06:51	13K	 
+[   ]	lostDC.php	2024-09-24 06:51	19K	 
+[   ]	lostDC shell.php	2024-09-24 06:51	19K	 
+[   ]	matamu.php	2024-09-24 06:51	3.7K	 
+[   ]	megabor.php	2024-09-24 06:51	41K	 
+[   ]	mmm.php	2024-09-24 06:51	223K	 
+[   ]	mof提权带回显带清楚命令版本.php	2024-09-24 06:51	2.9K	 
+[   ]	moon_1php.php	2024-09-24 06:51	2.4K	 
+[   ]	myshell.php	2024-09-24 06:52	16K	 
+[   ]	mysql_tool.php	2024-09-24 06:51	32K	 
+[   ]	nShell v1.0.php	2024-09-24 06:51	13K	 
+[   ]	navicat_tunnel.php	2024-09-24 06:51	6.6K	 
+[   ]	nsT View.php	2024-09-24 06:51	80K	 
+[   ]	nshell.php	2024-09-24 06:51	13K	 
+[   ]	pHp一句话扫描脚本程序.php	2024-09-24 06:51	4.1K	 
+[   ]	pHpINJ.php	2024-09-24 06:51	1.1K	 
+[   ]	pas.php	2024-09-24 06:51	21K	 
+[   ]	php版iisspy.php	2024-09-24 06:51	2.6K	 
+[   ]	php读取iis.php	2024-09-24 06:52	942	 
+[   ]	php-backdoor.php	2024-09-24 06:51	2.7K	 
+[   ]	php-findsock-shell.php	2024-09-24 06:51	3.4K	 
+[   ]	php-include-w-shell.php	2024-09-24 06:51	46K	 
+[   ]	php-reverse-shell.php	2024-09-24 06:51	5.4K	 
+[   ]	phpinfo.php	2024-09-24 06:51	20	 
+[   ]	phpshell17.php	2024-09-24 06:51	5.0K	 
+[   ]	phpwebbackup.php	2024-09-24 06:51	14K	 
+[   ]	pws.php	2024-09-24 06:51	869	 
+[   ]	qsd-php-backdoor.php	2024-09-24 06:52	13K	 
+[   ]	r57.biz Dq99Shell.php	2024-09-24 06:52	157K	 
+[   ]	r57_Mohajer22.php	2024-09-24 06:52	112K	 
+[   ]	r57_iFX.php	2024-09-24 06:51	86K	 
+[   ]	r57_kartal.php	2024-09-24 06:52	96K	 
+[   ]	r57shell.php	2024-09-24 06:51	17K	 
+[   ]	r57shell127.php	2024-09-24 06:51	106K	 
+[   ]	r57shell v.1.42 - Edited By KingDefacer.php	2024-09-24 06:51	187K	 
+[   ]	reverseshell-poc.php	2024-09-24 06:51	2.9K	 
+[   ]	robot.php	2024-09-24 06:52	90K	 
+[   ]	rootshell.php	2024-09-24 06:51	13K	 
+[   ]	ru24_post_sh.php	2024-09-24 06:51	520	 
+[   ]	rust.php	2024-09-24 06:51	31	 
+[   ]	s72 Shell v1.0 Codinf by Cr@zy_King.php	2024-09-24 06:52	5.0K	 
+[   ]	s72 Shell v1.1 Coding.php	2024-09-24 06:51	5.0K	 
+[   ]	s72_Shell_v1.1_Coding.php	2024-09-24 06:52	5.0K	 
+[   ]	safe0ver.php	2024-09-24 06:51	37K	 
+[   ]	scanner.php	2024-09-24 06:51	3.3K	 
+[   ]	simattacker.php	2024-09-24 06:51	12K	 
+[   ]	simple-backdoor.php	2024-09-24 06:52	328	 
+[   ]	simple_cmd.php	2024-09-24 06:52	335	 
+[   ]	small.php	2024-09-24 06:51	15K	 
+[   ]	sniffer.php	2024-09-24 06:51	3.8K	 
+[   ]	sosyete.php	2024-09-24 06:51	7.5K	 
+[   ]	spygrup.php	2024-09-24 06:51	8.0K	 
+[   ]	stres.php	2024-09-24 06:51	40K	 
+[   ]	sure.php	2024-09-24 06:51	11K	 
+[   ]	sys32.php	2024-09-24 06:52	98K	 
+[   ]	t57shell.php	2024-09-24 06:52	11K	 
+[   ]	t_test.php	2024-09-24 06:51	32	 
+[   ]	toby57解析加密一句话木马.php	2024-09-24 06:51	820	 
+[   ]	tryag.php	2024-09-24 06:52	49K	 
+[   ]	udf.dll 专用网马.php	2024-09-24 06:51	118K	 
+[   ]	up.php	2024-09-24 06:51	663	 
+[   ]	wordpress backdoor.php	2024-09-24 06:50	585	 
+[   ]	wp-conf.php	2024-09-24 06:51	23K	 
+[   ]	wp-conten1_pass_KoR345Ker78DSa.php	2024-09-24 06:51	131K	 
+[   ]	www.zjjv.com.php	2024-09-24 06:51	73K	 
+[   ]	xnonymoux_webshell_ver_1.0.php	2024-09-24 06:51	362K	 
+[   ]	zaco.php	2024-09-24 06:52	15K	 
+[   ]	zacosmall.php	2024-09-24 06:51	16K	 
+Apache/2.4.56 (Debian) Server at 132.232.103.235 Port 8081
